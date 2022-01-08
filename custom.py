@@ -16,7 +16,7 @@ import skimage.draw
 #import matplotlib.pyplot as plt
 
 # Root directory of the project
-ROOT_DIR = r'D:/Tech Projects/car-damage-detection/Mask_RCNN_damage_detector/'
+ROOT_DIR = r'G:/Ayame/car-damage/car-damage-detector/'
 
 # Import Mask RCNN
 sys.path.append(ROOT_DIR)  # To find local version of the library
